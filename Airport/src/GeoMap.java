@@ -1,6 +1,3 @@
-/**
- * Created by Huanli_Wang on 09/02/2017.
- */
 public class GeoMap {
     private static int[][] geoMap = {{0 , 300, 900, 950, 1200},
                                     {300,   0, 630, 660, 1450},
