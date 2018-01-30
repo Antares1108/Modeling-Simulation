@@ -1,7 +1,3 @@
-/**
- * Modified by Huanli_Wang on 04/02/2017.
- */
-
 public class Event implements Comparable<Event> {
     private EventHandler m_handler;
     private double m_time;
