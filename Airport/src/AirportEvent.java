@@ -1,7 +1,3 @@
-/**
- * Modified by Huanli_Wang on 04/02/2017.
- */
-
 public class AirportEvent extends Event {
     public static final int PLANE_ARRIVES = 0;
     public static final int PLANE_LANDED = 1;
