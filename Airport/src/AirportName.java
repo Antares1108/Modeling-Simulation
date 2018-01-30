@@ -1,6 +1,3 @@
-/**
- * Created by Huanli_Wang on 09/02/2017.
- */
 public enum AirportName {
     JFK("JFK", 0),
     ATL("ATL", 1),
