@@ -1,11 +1,5 @@
 import java.util.Random;
 
-/**
- * Modified by Huanli_Wang on 04/02/2017.
- */
-
-//TODO add number of passengers, speed
-
 public class Airplane {
     private String m_name;
     private int m_numberPassengers;
