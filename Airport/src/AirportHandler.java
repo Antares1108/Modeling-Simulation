@@ -1,7 +1,3 @@
-/**
- * Modified by Huanli_Wang on 04/02/2017.
- */
-
 public class AirportHandler implements EventHandler {
 
     //TODO add landing and takeoff queues, random variables
