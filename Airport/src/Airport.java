@@ -3,9 +3,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-/**
- * Created by Huanli_Wang on 09/02/2017.
- */
 public class Airport {
     private AirportName m_airportName;
     private int m_inTheAir;
